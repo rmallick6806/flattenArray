@@ -1,0 +1,17 @@
+{
+  "name": "flattenarray",
+  "version": "1.0.0",
+  "description": "A simple method to flatten an arbitrarily nested array of arrays. Built for integers, it accepts all values and returns only integer values, skipping any non-integer values found.",
+  "main": "flattenArray.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "flatten",
+    "array",
+    "nested",
+    "integer"
+  ],
+  "author": "Ray Mallick",
+  "license": "ISC"
+}
