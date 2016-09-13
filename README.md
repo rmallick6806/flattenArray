@@ -10,7 +10,7 @@ The method is built on simple, rudimentary JS methods and semantics. As such, it
 ## installation
 
 ```
-git clone
+git clone https://github.com/rmallick6806/flattenArray.git
 cd flattenArray
 npm i
 ```
