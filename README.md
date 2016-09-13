@@ -28,7 +28,6 @@ var output = flattenArray(array)
  var array = [[1, 2, 3, [4]], 'a', 6];
  var output = flattenArray(array)
   ->  [1, 2, 3, 4, 6]
-mocha
 ```
 
 ## test
