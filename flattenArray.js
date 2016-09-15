@@ -1,7 +1,7 @@
 /*
 
 	The flattenArray() function accepts an arbitrarily nested array
-	of arrays, specifically for integer values. It was always return
+	of arrays, built specifically for integer values. It will always return
 	an array of integers, skipping any non-integer values it finds.
 
 	ex: flattenArray([1,2,3, [4], [5, 6]]) -> [1, 2, 3, 4, 5, 6]
